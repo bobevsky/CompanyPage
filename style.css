@@ -1237,6 +1237,14 @@ nav ul li a {
     margin-bottom: 49px;
   }
 
+  .b-right-1 {
+    border-right: 0;
+  }
+
+  .m-bt-0 {
+    margin-bottom: 0;
+  }
+
         
 }
 
@@ -1246,6 +1254,247 @@ nav ul li a {
         margin-left: 15%;
         margin-top:15%;
     }
+    .hamburger {
+    display: block;
+    margin-left: 308px;
+  }
+
+  .media-m-bt-6 {
+    margin-bottom: 6px;
+  }
+
+  .m-top-150 {
+    margin-top: 150vh;
+  }
+
+  #nav-pc {
+    display: none;
+  }
+
+  .b-right-1 {
+    border-right: 0;
+  }
+
+  .img-laptop {
+    width: 134%;
+    margin-top: 26px;
+    margin-left: -50px;
+  }
+
+  .media-h2-fsize {
+    font-size: 24px;
+    margin-top: 35px;
+    text-align: center;
+  }
+
+  .media-m-top-180 {
+    margin-top: 115px;
+  }
+  .header-ps {
+    margin-top: 35px;
+  }
+
+  .txt-center-media {
+    text-align: center;
+  }
+
+  .f-size-19-media {
+    font-size: 19px;
+  }
+
+  .f-weight-550-media {
+    font-weight: 550;
+  }
+  .m-bottom-22-media {
+    margin-bottom: 22px;
+  }
+
+  .f-size-22-media {
+    font-size: 22px;
+  }
+
+  .f-size-17-media {
+    font-size: 17px;
+  }
+
+  .navbar-brand {
+    background-color: white;
+    color: black !important;
+  }
+  .tablet {
+    position: relative;
+    width: 250px;
+    height: 404px;
+    margin-left: 38px;
+    border-top-width: 42px;
+    border-bottom-width: 42px;
+    top: -40px;
+   }
+
+  .tablet .content {
+    width: 219px;
+    height: 321px;
+  }
+  .image-inside {
+    width: 150%;
+    height: 155%;
+    margin-top: -91px;
+  }
+  .tablet:before {
+    width: 10px;
+    height: 5px;
+    top: -21px;
+    left: 50%;
+   }
+   .tablet:after {
+    width: 26px;
+    height: 26px;
+    left: 49%;
+    bottom: -47px;
+    }
+
+    .m-top--65-media {
+      margin-top: -65px;
+    }
+
+    .flex-around-media {
+      display: block;
+    }
+
+    .media-float {
+      float: left;
+      width: 50%;
+    }
+
+    .f-size-15-media {
+      font-size: 15px;
+    }
+
+    .m-top-17-media {
+      margin-top: 17px;
+    }
+
+    .line-height-30-media {
+      line-height: 30px;
+    }
+
+    .arrow {
+      left:45%;
+    }
+
+    .f-size-30-media {
+      font-size: 30px;
+    }
+
+    .m-bt-20-media {
+      margin-bottom: 20px;
+    }
+
+    .m-t-20-media {
+      margin-top: 20px;
+    }
+
+    .m-bt-50-media {
+      margin-bottom: 50px;
+    }
+
+    .p-left-35-media{
+    padding-left: 0;
+  }
+
+  .media-b-bottom-1{
+    border-bottom: 1px solid white;
+  }
+  .media-m-bottom-40{
+    margin-bottom: 40px;
+  }
+  .media-m-bottom-30{
+    margin-bottom: 30px;
+  }
+  .media-m-top-30{
+    margin-top: 30px;
+  }
+  .media-f-size-23{
+    font-size: 23px;
+  }
+  .media-f-size-20{
+    font-size: 20px;
+  }
+  .media-fifthHolder-height{
+    height: 200px;
+  }
+  .media-text-center{
+    text-align: center;
+  }
+  .media-padding-btn{
+    padding: 15px 58px;
+  }
+  a .more1:visited{
+    color:red !important;
+  }
+  a .more1:active{
+    color:red !important;
+  }
+  .media-b-bottom{
+    border-bottom: 1px solid lightgrey;
+  }
+
+  .m-after-tablet {
+    margin-bottom: 10px !important;
+  }
+
+  .h-60 {
+    height: 100%;
+  }
+
+  .overlay {
+    z-index: 1111111;
+  }
+
+  .cetvrtColLista_services {
+    padding-left: 104px;
+  }
+
+  .vtorRow_services {
+    height: auto;
+  }
+
+  .img-work {
+    top: -19px;
+    width: 403px;
+    right: 9px;
+  }
+
+  .naslov {
+    font-size: 31px;
+    font-weight: bold;
+    line-height: 40px;
+  }
+
+.kopche_pod_body {
+    padding: 11px 34px;
+    margin-left: 31%;
+    margin-top: 15%;
+    font-size: 18px;
+  }
+
+  .body_text{
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .media-m-top-37 {
+    margin-top: 37vh;
+  }
+
+  .m-bt-media-49 {
+    margin-bottom: 49px;
+  }
+
+  .m-bt-0 {
+    margin-bottom: 0;
+  }
+
 }
 
 
