@@ -33,6 +33,12 @@ $(document).on('scroll', function(){
            height: '11.5vh'
          });
       }
+    if (window.matchMedia('(max-width: 375px)').matches)
+      {
+         $('#navbar').css({
+           height: 'auto'
+         });
+      }
   } else  {
     $('#navbar').css({
       backgroundColor: 'transparent',
